@@ -15,7 +15,7 @@ DMR_Annotation: R scripts describing how genes were assigned to DMRs and assessm
 
 GeneLengthAnalysis: R script for permutation based testing of gene lengths of DMR associated genes relative to BG region genes. Data folder included.
 
-GeneOverlaps_lengthcorrted: R script for permutation based testing of gene list overlaps between DMR associated genes and published gene lists. Permutation distribution is taken from the BG regions and matched for gene length to the target (published) gene list. Example data is given for ASD DMR associated genes.
+GeneOverlaps_lengthcorrected: R script for permutation based testing of gene list overlaps between DMR associated genes and published gene lists. Permutation distribution is taken from the BG regions and matched for gene length to the target (published) gene list. Example data is given for ASD DMR associated genes.
 
 GOfunc: Gene Ontology enrichment analysis using GOFuncR permutation testing. The custom gene-region annotation is included as well as background regions and DMRs in bed format.
 
