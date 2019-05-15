@@ -4,6 +4,7 @@ Analysis code associated with Vogel Ciernia et al. Cerebral Cortex 2019.
 Code included in this folder was used to generate data for Vogel Ciernia et al. 2019 Cerebral Cortex analysis of Whole Genome Bisulfite Sequencing (WGBS) datasets from human cortex from Autism Spectrum Disorder, Dup15q Syndrome, and Rett Syndrome. Details on the tissue samples, library preparation, and sequencing can be found in the published article. 
 
 Inital processing of fastq files, adapter trimming, QC and Bismark alignment was performed using:https://github.com/ben-laufer/CpG_Me
+
 DMR calling was performed as described here: https://github.com/ben-laufer/DMRichR
 
 Analysis scripts included here are mainly designed to be run interactively in R studio. Some more computationally intensive scripts require either a high performance desktop computer or access to a server. We provide the code and example datasets used in the manuscript. All code is provided "as is", so please use at your own risk. 
