@@ -1,0 +1,34 @@
+columnorder,new.names
+ASDvCtrl Male & Female HyperDMRs genes,ASD HyperDMRs genes
+ASDvCtrl Male & Female HypoDMRs genes,ASD HypoDMRs genes
+Dup15 HyperDMR genes,Dup15 HyperDMR genes
+Dup15 HypoDMR genes,Dup15 HypoDMR genes
+LGD,LGD
+LGD Recurrant,LGD Recurrent
+Missense,Missense
+Missense Recurrant,Missense Recurrent
+Sanders High Risk ASD ,Sanders High Risk ASD 
+SFARI Currated,SFARI Currated
+SFARI High Confidence,SFARI High Confidence
+SFARI Minimal,SFARI Minimal
+Candidate ID,Candidate ID
+de novo CNV ID,de novo CNV ID
+Known ID,Known ID
+LGD PLI>0.9,PLI>0.9
+Gandal ASD>Ctrl genes,Gandal ASD>Ctrl genes
+Gupta ASD>Ctrl genes,Gupta ASD>Ctrl genes
+Parikshak ASD>Ctrl genes,Parikshak ASD>Ctrl genes
+Dup15 DE ASD>Ctrl genes,Dup15 ASD>Ctrl genes
+SCZ>Ctrl genes,Schzophrenia>Ctrl genes
+AAD>Ctrl genes,Alcoholism>Ctrl genes
+BD>Ctrl genes,Bipolar Disorder>Ctrl genes
+AD>Ctrl genes,Alzheimer's Disease>Ctrl genes
+AD DE genes,Alzheimer's Disease DE genes
+Gandal ASD<Ctrl genes,Gandal ASD<Ctrl genes
+Gupta ASD<Ctrl genes,Gupta ASD<Ctrl genes
+Parikshak ASD<Ctrl genes,Parikshak ASD<Ctrl genes
+Dup15 DE ASD<Ctrl genes,Dup15 ASD<Ctrl genes
+SCZ<Ctrl genes,Schzophrenia<Ctrl genes
+AAD<Ctrl genes,Alcoholism<Ctrl genes
+BD<Ctrl genes,Bipolar Disorder<Ctrl genes
+AD<Ctrl genes,Alzheimer's Disease<Ctrl genes
